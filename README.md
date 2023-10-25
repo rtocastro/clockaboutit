@@ -10,6 +10,7 @@ Write in and save your schedule.
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Deployment](#deployment)
 
 ## Installation
 
@@ -27,5 +28,7 @@ Type in what you want into the scheduler and it will save it locally to your sto
 
 My teacher Luigi Campbell, MDN and W3 schools for references on how to tie everything together. Also big shout out to my Tutor Jose Lopez! he helped me understand the syntax of what I was typing in. 
 
+## Deployment
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Here's the link for deployed application
+https://rtocastro.github.io/clockaboutit/
